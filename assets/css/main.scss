@@ -13,3 +13,13 @@
   "media-queries",
   "syntax-highlighting"
 ;
+
+
+@font-face {
+font-family: "CrimsonText-Regular";
+src: url("fonts/CrimsonText-Regular.eot");
+src:
+url("fonts/CrimsonText-Regular.woff") format("woff"),
+url("fonts/CrimsonText-Regular.otf") format("opentype"),
+url("fonts/CrimsonText-Regular.svg#filename") format("svg");
+}
