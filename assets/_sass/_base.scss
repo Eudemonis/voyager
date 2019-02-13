@@ -13,18 +13,10 @@
   display: none;
 }
 
-@font-face {
-font-family: "CrimsonText-Regular";
-src: url("fonts/CrimsonText-Regular.eot");
-src:
-url("fonts/CrimsonText-Regular.woff") format("woff"),
-url("fonts/CrimsonText-Regular.otf") format("opentype"),
-url("fonts/CrimsonText-Regular.svg#filename") format("svg");
-}
 
 
 body {
-  font: normal 17px/1.5 "CrimsonText-Regular", 'PT Serif', "Helvetica Neue", "Helvetica", Arial, sans-serif;
+  font: normal 17px/1.5 'PT Serif', "Helvetica Neue", "Helvetica", Arial, sans-serif;
   width: 100%;
   height: 100%;
   text-align: justify;
