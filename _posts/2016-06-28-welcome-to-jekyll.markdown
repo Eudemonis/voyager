@@ -1,6 +1,6 @@
 ---
 layout: post
-bg: "doodles.svg"
+bg: "Flowers.jpg"
 title:  "Welcome to Jekyll!"
 crawlertitle: "How to use jekyll"
 summary: "Jekyll default page"

@@ -1,5 +1,5 @@
 ---
-bg: "tag.jpg"
+bg: "doodles2.svg"
 layout: page
 permalink: /posts/
 title: "Archive"
