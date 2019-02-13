@@ -1,5 +1,5 @@
 ---
-bg: "doodles2.svg"
+bg: "yellow.svg"
 layout: post
 title:  "How to write a first post"
 crawlertitle: "It's good to know it's trash"
