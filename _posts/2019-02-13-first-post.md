@@ -24,7 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ## Third Verse
 Not a single paragraph should be larger than three lines (equals 1400 words). It seems so little. I wonder how this theme looks on a mobile device. Anyway, let's get this party started. Is it even possible to edit in the post itself in this theme? I certainly hope so, otherwise I will need to find another way.
 
-<p style="color: #e22700; font-family: 'Roboto';">So where did I hide all the codes for formatting text in html? There it is. </p>
+<p style="color: #e22700;">So where did I hide all the codes for formatting text in html? There it is. </p>
 
 I really hope this does not come out as total trash. Oh no it does come out as total trash. What a shame. Let's see it's possible to
 
