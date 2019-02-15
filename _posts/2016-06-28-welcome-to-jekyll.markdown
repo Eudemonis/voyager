@@ -18,4 +18,4 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ## Part three
 
 Error 404: Paragraph not found.
-What a shame
+What a shame.

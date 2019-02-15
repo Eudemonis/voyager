@@ -26,4 +26,4 @@ Not a single paragraph should be larger than three lines (equals 1400 words). It
 
 <p style="color: #e22700; font-family: calibri;">So where did I hide all the codes for formatting text in html? There it is. </p>
 
-I really hope this does not come out as total trash. Oh no it does come out as total trash. What a shame. Let's see it's possible to
+I really hope this does not come out as total trash. Oh no it does come out as total trash. What a shame. 
