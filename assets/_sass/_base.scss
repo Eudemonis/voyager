@@ -14,14 +14,12 @@
 }
 
 @font-face {
-font-family: "Crimson-Roman";
-src: url("fonts/crimson-roman-webfont.eot");
+font-family: "Roboto Condensed";
 src:
-url("fonts/crimson-roman-webfont.woff") format("woff"),
-url("fonts/Crimson-Roman.otf") format("opentype"),
-url("fonts/crimson-roman-webfont.svg#filename") format("svg");
+url("/assets/fonts/robotocondensed-regular-webfont.woff") format("woff"),
+url("/assets/fonts/RobotoCondensed-Regular") format("truetype"),
+url("/assets/fonts/robotocondensed-regular-webfont.woff2") format("woff2");
 }
-
 
 body {
   font: normal 17px/1.5 "Crimson-Roman", 'PT Serif', "Helvetica Neue", "Helvetica", Arial, sans-serif;
