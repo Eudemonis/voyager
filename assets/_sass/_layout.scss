@@ -1,15 +1,15 @@
 @font-face {
-font-family: "Roboto Condensed";
+font-family: 'Roboto Condensed';
 src:
-url("/assets/fonts/robotocondensed-regular-webfont.woff") format("woff"),
-url("/assets/fonts/RobotoCondensed-Regular.ttf") format("truetype"),
-url("/assets/fonts/robotocondensed-regular-webfont.woff2") format("woff2");
+url('/assets/fonts/robotocondensed-regular-webfont.woff') format("woff"),
+url('/assets/fonts/RobotoCondensed-Regular.ttf') format("truetype"),
+url('/assets/fonts/robotocondensed-regular-webfont.woff2') format("woff2");
 }
 
 @font-face {
-font-family: "PT Serif";
+font-family: 'PT Serif';
 src:
-url("/assets/fonts/PTF55F.ttf") format("truetype"),
+url('/assets/fonts/PTF55F.ttf') format("truetype");
 }
 
 /*
